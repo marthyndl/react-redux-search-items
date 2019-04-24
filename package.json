@@ -1,5 +1,6 @@
 {
   "name": "react-redux-search-items",
+  "author": "Martin Daniel Lopez",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
